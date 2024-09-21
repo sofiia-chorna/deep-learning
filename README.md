@@ -1,2 +1,1 @@
-# deep-learning
-IP Paris, 2024
+# Deep Learning Course
