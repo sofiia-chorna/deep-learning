@@ -2,6 +2,11 @@
 
 Prof. Geoffroy Peeters, LTCI S2A, Télécom Paris
 
+**Overview diagram** 😊
+
+<img src="./overview_diagram.png" alt="overview_diagram" width="800"/>
+
+
 ## Lab 1: Multi-Layer Perceptron (MLP)
 
 This lab consists of two parts where we explore the implementation of a Multi-Layer Perceptron (MLP) for classification problems. We first build an MLP from scratch using `numpy` and then move on to different approaches using `pytorch`.
